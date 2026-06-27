@@ -26,7 +26,4 @@ Player usernames were anonymized using a "Player_Number" convention, where the n
 
 The complete dataset comprises approximately one million instances, each representing a single player in a match. In total, it includes 98,138 unique matches, each involving 10 players.
 
-The full dataset will be made publicly available upon acceptance of the study:
-
-**"Beyond KDA: A Strategy-Aware Approach to Performance Measurement and Outcome Prediction in MOBA Games"**
-
+**-> The full dataset will be made publicly available upon acceptance of the study.**
